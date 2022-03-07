@@ -1,4 +1,5 @@
 # AWS + AUTH with amplify 📊 👩🏻‍🎤 ❤️‍🔥 🛠
+with DynamoDB 💥
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
